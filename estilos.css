@@ -207,6 +207,17 @@ section {
     font-weight: 700;
 }
 
+.card_nota {
+    margin-bottom: 8px;
+    padding: 8px 12px;
+    border-left: 4px solid #5b3d8f;
+    border-radius: 4px;
+    background-color: #f3f0f7;
+    color: #2b2b2b;
+    font-size: 0.8125rem;
+    line-height: 1.4;
+}
+
 .card_tipo {
     margin-bottom: 8px;
     color: #525252;
