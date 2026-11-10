@@ -295,18 +295,17 @@ section {
 
 .link_interno {
     padding: 10px 16px;
-    border: 2px solid #2a7d14;
+    border: 2px solid #c2410c;
     border-radius: 8px;
-    background-color: #2a7d14;
+    background-color: #c2410c;
     color: #ffffff;
     font-size: 1rem;
     text-decoration: none;
 }
 
 .link_interno:hover {
-    border-color: #d67e5c;
-    background-color: #d67e5c;
-    color: #1e1e1e;
+    border-color: #9a3412;
+    background-color: #9a3412;
 }
 
 .connect-email {
