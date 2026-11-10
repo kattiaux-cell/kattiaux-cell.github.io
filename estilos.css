@@ -295,9 +295,9 @@ section {
 
 .link_interno {
     padding: 10px 16px;
-    border: 2px solid #349a1a;
+    border: 2px solid #2a7d14;
     border-radius: 8px;
-    background-color: #349a1a;
+    background-color: #2a7d14;
     color: #ffffff;
     font-size: 1rem;
     text-decoration: none;
@@ -306,6 +306,7 @@ section {
 .link_interno:hover {
     border-color: #d67e5c;
     background-color: #d67e5c;
+    color: #1e1e1e;
 }
 
 .connect-email {
